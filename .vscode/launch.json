@@ -1,0 +1,172 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        
+        {
+            "type": "java",
+            "name": "swingexample",
+            "request": "launch",
+            "mainClass": "swingexample",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "FrameByExtendingFrameClass",
+            "request": "launch",
+            "mainClass": "FrameByExtendingFrameClass",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "deadlock",
+            "request": "launch",
+            "mainClass": "deadlock",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "DaemonThread",
+            "request": "launch",
+            "mainClass": "DaemonThread",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "car",
+            "request": "launch",
+            "mainClass": "car",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "trycatchexample",
+            "request": "launch",
+            "mainClass": "trycatchexample",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "read",
+            "request": "launch",
+            "mainClass": "read",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "labew2",
+            "request": "launch",
+            "mainClass": "labew2",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "framebyinstance",
+            "request": "launch",
+            "mainClass": "framebyinstance",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "linked_list",
+            "request": "launch",
+            "mainClass": "linked_list",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "world",
+            "request": "launch",
+            "mainClass": "world",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "duke",
+            "request": "launch",
+            "mainClass": "duke",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "cat",
+            "request": "launch",
+            "mainClass": "cat",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "b",
+            "request": "launch",
+            "mainClass": "b",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "testaccount",
+            "request": "launch",
+            "mainClass": "testaccount",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "teststudent",
+            "request": "launch",
+            "mainClass": "teststudent",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "linkedlist3",
+            "request": "launch",
+            "mainClass": "linkedlist3",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "linkedlist2",
+            "request": "launch",
+            "mainClass": "linkedlist2",
+            "projectName": "vscode.java_7ec3b7a4"
+        },
+        {
+            "type": "java",
+            "name": "linkedlist1",
+            "request": "launch",
+            "mainClass": "linkedlist1",
+            "projectName": "vscode.java_7ec3b7a4"
+        }
+    ]
+}
